@@ -71,11 +71,6 @@
 </p>
 
 
-
-[![](https://raw.githubusercontent.com/Misaelreis/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
 <h2 align="center">👨‍💻 Repositórios Recomendados 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
