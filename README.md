@@ -76,6 +76,9 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Misaelreis/TDUAICypress" title="Automação e2e Cypress"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Misaelreis&repo=TDUAICypress&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Misaelreis/test-api-serverest" title="Automação Api Java"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Misaelreis&repo=test-api-serverest&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 <br/>
 <br></br><br></br><br></br>
 
