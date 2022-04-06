@@ -33,7 +33,7 @@
     <img src=https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&>
     <img src=https://img.shields.io/badge/-Postman%20-%23525252.svg?style=flat&logo=postman&>
     <img src=https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=purple&>
-    <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&">
+    <img src=https://img.shields.io/badge/-Cypress%20-%23525252.svg?style=flat&logo=cypress&>
     <img src=https://img.shields.io/badge/-AndroidStudio%20-%23525252.svg?style=flat&logo=android-studio&>
     <img src=https://img.shields.io/badge/-Appium%20-%23525252.svg?style=flat&logo=selenium&logoColor=purple&>
 </p>
