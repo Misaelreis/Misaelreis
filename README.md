@@ -2,7 +2,7 @@
 ### Obrigado pela visita
 
 - 🔭 Atualmente estou trabalhando na [Zup Innovation](https://github.com/ZupIT)
-- 🌱 Estou aprendendo automação de testes, já automatizo mas ainda estou em desenvolvimento
+- 🌱 Estou aprimorando meus conhecimentos em programação, com a linguagem java com a [Loiane](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 - ⚡ Sou um dos organizadores do grupo de meetups: [Café, Testes e Pão de Queijo](https://www.youtube.com/channel/UCA69OSDFLlc5Sfs8yOOydOA)
 
 #### 👨‍💻 Linguagens de Programação 
