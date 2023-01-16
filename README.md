@@ -61,28 +61,7 @@
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Misaelreis" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>  
-  
-<p align="left">
-<a href="https://github.com/Misaelreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Misaelreis&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misaelreis&layout=compact&langs_count=8&hide=HCL"/>
-</a>
-</p>
-
-
-<h2 align="center">👨‍💻 Repositórios Recomendados 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Misaelreis/test-e2e-serverest" title="Automação e2e Cypress"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Misaelreis&repo=test-e2e-serverest&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Misaelreis/test-api-serverest" title="Automação Api Java"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Misaelreis&repo=test-api-serverest&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/>
-<br></br><br></br><br></br>
+</p> 
 
 ### Minhas Redes 🤝
 <a href="https://www.linkedin.com/in/misael-reis/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-
