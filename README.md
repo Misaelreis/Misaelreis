@@ -1,8 +1,8 @@
 
 ### Obrigado pela visita
 
-- 🔭 Atualmente estou trabalhando na [Zup Innovation](https://github.com/ZupIT)
-- 🌱 Estou aprimorando meus conhecimentos em programação, utilizando a linguagem java com a [Loiane](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- 🔭 Atualmente estou trabalhando como QA na [Zup Innovation](https://github.com/ZupIT)
+- 🌱 Estou estudando python com o [Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - ⚡ Sou um dos organizadores do grupo de meetups: [Café, Testes e Pão de Queijo](https://www.youtube.com/channel/UCA69OSDFLlc5Sfs8yOOydOA)
 
 #### 👨‍💻 Linguagens de Programação 
